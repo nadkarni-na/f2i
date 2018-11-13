@@ -1,4 +1,4 @@
 <?php
 echo "bonjour<br>";
-echo "f2i";
+echo "f2i<br>";
 ?>
