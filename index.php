@@ -1,3 +1,4 @@
 <?php
-echo "bonjour";
+echo "bonjour<br>";
+echo "f2i";
 ?>
